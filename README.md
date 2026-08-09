@@ -1,434 +1,181 @@
-<h1 align="center">Hi, I'm Vineeth Racharla 👋</h1>
+# Hi, I'm Vineeth Racharla 👋
 
-<h3 align="center">
-QA AI Engineer · AI Quality Engineer · Data Science · Machine Learning
-</h3>
+### AI Quality Engineer | QA Automation | Applied AI
 
-<p align="center">
-  <b>Quality-first engineer building reliable software, AI-powered testing solutions, and data-driven systems.</b>
-</p>
+Master's graduate in **AI & Data Analytics** from Hochschule Neu-Ulm (HNU), with professional experience in **Software Quality Assurance, Test Automation, API Testing, and AI-powered testing**.
 
-<p align="center">
-  <a href="https://github.com/Vinrach">GitHub</a> •
-  <a href="https://linkedin.com/in/vineeth-racharla/">LinkedIn</a>
-</p>
+I focus on building and evaluating reliable software and AI systems by combining **QA engineering, automation, and applied AI/ML**.
 
 ---
 
-## 👨‍💻 About Me
+## 🎯 What I Work On
 
-I'm an **AI & Data Analytics Master's student/graduate** with professional experience in **QA engineering, AI quality engineering, test automation, API testing, enterprise systems, and data-driven AI development**.
-
-My experience sits at the intersection of **Software Quality + Artificial Intelligence + Data**.
-
-I enjoy working on problems where AI needs to be **tested, evaluated, validated, and made reliable enough for real-world use**.
-
-### My core interests
-
-- 🤖 **AI Quality Engineering & AI QA**
-- 🧪 **Software Testing & Test Automation**
-- 🧠 **Generative AI, LLMs & Multimodal AI**
-- 🔎 **AI Evaluation & Prompt Engineering**
-- 📊 **Data Science & Machine Learning**
-- 🔐 **Privacy-Preserving AI**
-- 🔗 **RAG & Enterprise AI**
-- ⚙️ **CI/CD, MLOps & Model Deployment**
-- 📱 **Mobile & Cross-Browser Testing**
-- 🏢 **Enterprise Software Quality**
+- **AI Quality Engineering** — LLM/MLLM evaluation, AI testing, prompt evaluation, and reliability assessment
+- **Test Automation** — Selenium, Cucumber, API testing, CI/CD automation
+- **AI-Assisted QA** — GitHub Copilot agents and AI-assisted test-case generation
+- **Applied AI/ML** — RAG, multimodal models, fine-tuning, PEFT/LoRA, NLP
+- **Software Quality** — Functional, regression, UI, mobile, integration, and API testing
 
 ---
 
-# 🎯 Career Focus
+## 🧠 Technical Skills
 
-I'm particularly interested in roles such as:
+### AI / Machine Learning
+`Python` `PyTorch` `TensorFlow` `Transformers` `Hugging Face`  
+`LLMs` `MLLMs` `RAG` `FAISS` `PEFT` `LoRA` `LangChain` `Prompt Engineering`
 
-| Role | Focus |
-|---|---|
-| 🧪 **AI Quality Engineer** | Testing, evaluating and validating AI/ML systems |
-| 🤖 **QA AI Engineer** | AI-assisted testing, LLM evaluation and test automation |
-| 🔍 **AI QA Engineer** | Quality assurance for LLM/GenAI applications |
-| ⚙️ **Test Automation Engineer** | Selenium, Cucumber, API and CI/CD automation |
-| 🧠 **AI / ML Engineer** | ML, NLP, LLM and multimodal AI systems |
-| 📊 **Data Scientist** | Data analysis, ML modelling and experimentation |
+### QA & Test Automation
+`Manual Testing` `Selenium` `Cucumber` `Postman` `API Testing`  
+`Functional Testing` `Regression Testing` `Integration Testing` `Mobile Testing`  
+`Jira` `X-Ray` `Worksoft Certify` `SAP SolMan`
 
-My strongest differentiator is the combination of **QA engineering experience with hands-on AI/ML development and evaluation**.
+### Engineering & DevOps
+`Git` `GitHub` `Jenkins` `Docker` `Kubernetes` `Linux`  
+`Google Cloud Platform` `CI/CD` `MLOps`
 
----
-
-# 🧩 My Technical Profile
-
-```text
-                    SOFTWARE QUALITY
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-        Manual QA    Automation     API Testing
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                    AI QUALITY
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-         LLM Testing   AI Evaluation   Prompt Engineering
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                    AI / DATA
-                          │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-          ML / NLP       RAG       Data Analytics
-             │            │            │
-             └────────────┼────────────┘
-                          ▼
-                 Production / CI/CD
-```
+### Data & Analytics
+`Pandas` `NumPy` `SQL` `Power BI` `Excel` `Jupyter`
 
 ---
 
-# 🧪 QA & AI Quality Engineering
+# 🚀 Featured Work
 
-My professional QA experience includes:
+## 🔬 Master's Thesis — Privacy-Preserving MLLM for UI Element Detection
 
-### Testing
+My Master's thesis focused on applying **multimodal large language models to software testing and UI automation**.
 
-- Functional Testing
-- Regression Testing
-- Integration Testing
-- Mobile Application Testing
-- UI Testing
-- Cross-Browser Testing
-- Release Testing
-- API Testing
-- Defect Analysis
-- Root Cause Analysis
-- Test Case Design & Execution
-- Test Documentation & Traceability
+### Key work
 
-### Test Automation
+- Evaluated **3 multimodal LLMs** using screenshot and outerHTML datasets
+- Built a **2-phase RAG pipeline** using FAISS vector indexing and DOM parsing
+- Fine-tuned **Qwen 2.5 VL 3B** using PEFT/LoRA
+- Worked with **1,150 sanitized enterprise HTML samples**
+- Compared direct AI inference, RAG, and parameter-efficient fine-tuning
+- Evaluated model performance using **macro F1**
+- Investigated privacy-preserving approaches for enterprise AI-based QA automation
 
-- Selenium Java
-- Cucumber
-- Worksoft Certify
-- Jenkins
-- API automation/testing
-- CI/CD test execution
-- Git/GitHub
+### Key results
 
-### Enterprise QA
+- **82% macro F1** for CSS selector accuracy using the RAG pipeline
+- **78% macro F1** after Qwen 2.5 VL fine-tuning
+- Zero sensitive-data leakage in the sanitized fine-tuning dataset
 
-- SAP S/4HANA testing
-- SAP SolMan
-- Jira
-- X-Ray
-- Agile / Scrum
-- Version-controlled test documentation
+> Focus: `MLLM Evaluation` `RAG` `Fine-Tuning` `PEFT/LoRA` `UI Automation` `AI Quality`
 
 ---
 
-# 🤖 AI Quality Engineering Experience
+## 🤖 AI-Assisted Test Automation
 
-At **SyncPilot GmbH**, my work combines QA engineering with AI.
+At SyncPilot GmbH, I worked on combining **AI with software testing and automation**.
 
-### AI Image Comparison
+### Highlights
 
-- Improved an AI image-comparison framework from **62% to 85% accuracy** through prompt-engineering and comparison-strategy improvements.
-- Validated the framework using API testing with Postman.
-- Documented framework improvements and results through technical reporting.
+- Improved an AI image-comparison framework from **62% to 85% accuracy**
+- Used **prompt engineering** to optimize AI comparison strategies
+- Performed **API testing with Postman**
+- Developed **GitHub Copilot agents and skills** for Cucumber and Selenium Java test-case generation
+- Reduced team workload by approximately **40%** and improved efficiency by approximately **60%**
+- Performed functional, UI, cross-browser, mobile, and release testing
 
-### AI-Assisted Test Automation
-
-- Developed **GitHub Copilot agents and skills** for Cucumber and Selenium Java test-case generation.
-- Reduced team workload by approximately **40%** and improved efficiency by approximately **60%**.
-- Worked on AI-assisted generation of software test assets.
-
-### AI / MLLM Quality Research
-
-My Master's thesis investigates:
-
-- MLLM evaluation
-- AI inference quality
-- RAG evaluation
-- Prompt-based structured output
-- PEFT / LoRA fine-tuning
-- Privacy and data-leakage testing
-- Enterprise UI understanding
+> Focus: `AI-Assisted QA` `Prompt Engineering` `Selenium` `Cucumber` `Postman` `Test Automation`
 
 ---
 
-# 🎓 Master's Thesis
+# 🛠️ Selected Projects
 
-## Privacy-Preserving Fine-Tuning of Multi-modal Model for Clickable UI Detection
+### 🧑‍🏫 HawkAssist — AI-Powered E-Learning Assistant
 
-A research project conducted in an enterprise QA context to investigate whether locally hosted multimodal models can identify clickable UI elements and CSS selectors while protecting proprietary enterprise information.
+AI-powered web application providing conversational support for students.
 
-### Research Pipeline
-
-```text
-Enterprise Web Application
-          │
-          ▼
-Screenshot + OuterHTML
-          │
-          ▼
-MLLM Evaluation
-          │
-          ▼
-Qwen 2.5 VL 7B Selection
-          │
-       ┌──┴──────────────┐
-       ▼                 ▼
-      RAG               PPFT
-       │                 │
- FAISS + Embeddings   Sanitization
-       │                 │
- Qwen 2.5 VL 7B      PEFT + LoRA
-                         │
-                     Qwen 2.5 VL 3B
-       │                 │
-       └───────┬─────────┘
-               ▼
-      Performance + Privacy
-           Evaluation
-```
-
-### Technology
-
-`Qwen 2.5 VL` · `PyTorch` · `Hugging Face` · `PEFT` · `LoRA` · `FAISS` · `Sentence Transformers` · `BeautifulSoup` · `Selenium` · `Kubernetes` · `KubeAI` · `Ollama`
-
-### Key Work
-
-- Evaluated **3 MLLMs** using screenshot and OuterHTML datasets.
-- Built local model inference using **KubeAI + Ollama**.
-- Selected Qwen + OuterHTML using macro F1.
-- Developed a **two-phase RAG pipeline** using FAISS and DOM parsing.
-- Sanitized approximately **1,150 enterprise HTML training samples**.
-- Fine-tuned Qwen 2.5 VL 3B using **PEFT-LoRA**.
-- Performed memorization, conservative-behaviour and adversarial extraction tests.
-- Investigated the trade-off between AI performance, privacy and deployment feasibility.
-
-### Final Macro F1
-
-| Approach | Final Macro F1 |
-|---|---:|
-| AI Inference | **0.6933 / 0.6840** |
-| RAG | **0.8367 / 0.8196** |
-| PPFT + LoRA | **0.7651 / 0.7823** |
-
-*Element Name / Element Type.*
+**Technologies:**  
+`Python` `Streamlit` `TensorFlow` `LangChain` `Flask` `Docker` `Git`
 
 ---
 
-# 🚀 Featured Projects
+### 🧠 Skip-gram Model — Distributed Word Representation
 
-## 🦅 HawkAssist — AI-Powered Adaptive E-Learning Platform
+Implemented a Skip-gram model with subsampling and negative sampling to explore distributed word representations and NLP techniques.
 
-An AI-powered learning platform combining tutoring, document-based question answering, automated assessments and learning analytics.
-
-**Stack:** `Python` · `OpenAI` · `LangChain` · `Chroma` · `Streamlit` · `SQLite` · `NLP`
-
-**Focus:** Generative AI · RAG · Education Technology · AI Applications
+**Technologies:**  
+`Python` `PyTorch` `NLP`
 
 ---
 
-## 🎓 AI Tutor — Enterprise Web Platform
+### 📊 HR Analytics Dashboard
 
-A Java-based enterprise tutoring platform supporting student enrollment, course management, professor workflows, REST APIs, PostgreSQL persistence and an AI-tutor interface.
+Built an analytics dashboard to identify factors influencing employee attrition and provide data-driven recommendations.
 
-**Stack:** `Java` · `REST APIs` · `PostgreSQL` · `HTML` · `CSS` · `AI Integration`
-
-**Focus:** Software Engineering · Enterprise Applications · AI Integration
-
----
-
-## 🧠 Skip-Gram — Distributed Word Representation
-
-Implemented Skip-Gram word embeddings in PyTorch using custom and Reuters corpora with negative sampling and subsampling.
-
-**Stack:** `Python` · `PyTorch` · `NLP` · `Word Embeddings` · `PCA` · `t-SNE`
-
-**Focus:** NLP · Representation Learning · Deep Learning
+**Technologies:**  
+`Power BI` `Excel` `SQL`
 
 ---
 
-## 🧮 CLARANS — Unsupervised Machine Learning
+### 🚗 Autonomous Car — Obstacle Detection & Navigation
 
-Implemented CLARANS clustering from scratch using randomized medoid search, cost optimization and hyperparameter tuning.
+Developed a real-time obstacle detection and navigation system using sensors and embedded hardware, together with an Android voice-control application.
 
-**Stack:** `Python` · `NumPy` · `Pandas` · `Matplotlib`
-
-**Focus:** Unsupervised Learning · Clustering · Algorithm Development
-
----
-
-## 📈 AdaBoost — Ensemble Learning
-
-Implemented AdaBoost from scratch using decision stumps for breast cancer classification with weighted ensemble learning, hyperparameter tuning and feature-importance analysis.
-
-**Stack:** `Python` · `NumPy` · `Pandas` · `Machine Learning`
-
-**Focus:** Classification · Ensemble Learning · Model Evaluation
+**Technologies:**  
+`C++` `Arduino` `IR Sensors` `Android`
 
 ---
 
-## 🏗️ Data Integration & Analytics Platform
+# 💼 Professional Experience
 
-Built a Big Data analytics pipeline for data ingestion, warehousing and SQL-based reporting.
+### SyncPilot GmbH — Working Student | QA & AI Quality Engineering
+**Germany**
 
-**Stack:** `Apache Hadoop` · `HDFS` · `Apache Hive` · `HiveQL` · `PostgreSQL` · `Hue`
-
-**Focus:** Big Data · Data Engineering · Analytics
-
----
-
-## 📊 HR Analytics Dashboard
-
-Built an interactive dashboard to analyse employee attrition and identify business factors affecting workforce retention.
-
-**Stack:** `Power BI` · `Excel` · `SQL`
-
-**Focus:** Data Analytics · Business Intelligence · Data Visualization
-
----
-
-## 🚗 Autonomous Car with AI-Driven Voice Control
-
-Developed a real-time obstacle detection and navigation system with voice-based control.
-
-**Stack:** `C++` · `Arduino Uno` · `IR Sensors` · `Android`
-
-**Focus:** Robotics · Embedded AI · Autonomous Systems
-
----
-
-# 🛠️ Technology Stack
-
-### 🧪 QA & Test Automation
-
-`Selenium Java` `Cucumber` `Worksoft Certify` `Postman` `Jenkins` `Jira` `X-Ray` `SAP SolMan`
-
-### 🤖 AI / Machine Learning
-
-`Python` `PyTorch` `TensorFlow` `Scikit-learn` `Hugging Face` `Transformers` `Pandas` `NumPy`
-
-### 🧠 Generative AI
-
-`LLMs` `MLLMs` `Qwen` `LLaVA` `LLaMA Vision` `LangChain` `RAG` `FAISS` `PEFT` `LoRA` `Prompt Engineering` `Ollama`
-
-### 📊 Data & Analytics
-
-`SQL` `Apache Hive` `HiveQL` `Hadoop` `HDFS` `PostgreSQL` `Power BI` `Excel` `Matplotlib`
-
-### ⚙️ DevOps / MLOps
-
-`Git` `GitHub` `Jenkins` `Docker` `Kubernetes` `KubeAI` `Google Cloud Platform` `MLOps` `Model Deployment`
-
-### 💻 Development
-
-`Python` `Java` `C++` `REST APIs` `JSON` `Streamlit` `Jupyter Notebook`
-
-### 🖥️ Operating Systems
-
-`Linux` `Windows`
-
----
-
-# 🔬 What I Like Building
-
-I'm especially interested in projects where **quality and intelligence intersect**:
-
-```text
-AI Application
-     │
-     ├── Is the model accurate?
-     ├── Is the output reliable?
-     ├── Can it be tested?
-     ├── Can failures be reproduced?
-     ├── Can it be deployed safely?
-     ├── Can sensitive data be protected?
-     └── Can the system be automated?
-```
-
-This is why I'm particularly interested in **AI Quality Engineering**: traditional software QA provides the foundation for testing, while AI introduces additional challenges around model behaviour, evaluation, hallucination, prompt sensitivity, data leakage and reliability.
-
----
-
-# 📚 Professional Experience
-
-### QA AI Engineer — SyncPilot GmbH
-
-**Augsburg, Germany | Jan 2025 – Present**
-
-Working across:
-
-- AI quality engineering
-- AI image comparison
+- AI image-comparison evaluation and optimization
 - Prompt engineering
 - API testing
-- AI-assisted test automation
-- Cucumber / Selenium test generation
-- Mobile application testing
-- UI, functional and regression testing
-- Technical documentation and traceability
+- Mobile and web application testing
+- Selenium/Cucumber automation
+- GitHub Copilot-based test generation
+- QA documentation and traceability
 
-### Quality Assurance Engineer — Tata Consultancy Services
+### SyncPilot GmbH — Master's Thesis
+**Germany**
 
-**Bangalore, India | Dec 2021 – Oct 2023**
+- MLLM evaluation
+- RAG-based UI element detection
+- Qwen 2.5 VL fine-tuning
+- PEFT/LoRA
+- Privacy-preserving AI for QA automation
 
-Worked on:
+### Tata Consultancy Services — Quality Assurance Engineer
+**India**
 
-- Agile QA
-- Functional and regression testing
-- SAP S/4HANA
-- Worksoft Certify
-- Jenkins
-- Test automation
-- Defect analysis
-- Root cause investigation
-- Test documentation and traceability
-
-### Operations Team Member — Tata Consultancy Services
-
-**Bangalore, India | Jan 2021 – Nov 2021**
-
-Worked on supplier-data integration, SAP workflows, data migration and testing.
-
-### Artificial Intelligence & Robotics Intern — Elorce Industries
-
-**Hyderabad, India | Nov 2019 – Mar 2020**
-
-Developed an autonomous-car obstacle detection and navigation system using C++, Arduino and IR sensors with Android-based voice control.
+- Functional, integration, and regression testing
+- SAP S/4HANA testing
+- Test automation using Worksoft Certify
+- Jenkins-based CI/CD testing
+- Defect analysis and root-cause investigation
+- Agile collaboration with developers and stakeholders
 
 ---
 
 # 🎓 Education
 
-### Master of Science — Artificial Intelligence & Data Analytics
+### Master of Science — AI & Data Analytics
+**Hochschule Neu-Ulm (HNU), Germany**
 
-**Hochschule Neu-Ulm, Germany**
+Focus areas:
+- Artificial Intelligence
+- Big Data
+- Deep Learning
+- Advanced NLP
 
-Focus:
-
-`AI & Big Data` · `Deep Learning` · `Advanced NLP`
-
-### Bachelor of Technology — Electronics & Communication Engineering
-
+### Bachelor's Degree — Electronics & Communication Engineering
 **Vignan University, India**
-
-Focus:
-
-`Python Programming` · `Data Structures` · `Electronics` · `Embedded Systems`
 
 ---
 
 # 📜 Certifications
 
-- 🐍 Python Programming
-- 🤖 Generative AI
-- ☁️ Google Cloud Certified Associate Cloud Engineer
-- ✍️ Understanding Prompt Engineering
-- 📊 Data Analytics Essentials
+- Google Cloud Certified — Associate Cloud Engineer
+- Python Programming
+- Generative AI
+- Data Analytics Essentials
+- Prompt Engineering
 
 ---
 
@@ -436,105 +183,43 @@ Focus:
 
 **TCS On-the-Spot Award — 2022**
 
-Recognized for providing valuable insights and creative solutions that enhanced an ongoing project.
+Recognized for providing valuable insights and creative solutions to improve an ongoing project.
 
 ---
 
-# 🔄 How I Approach Quality & AI Projects
+# 🔎 Currently Exploring
 
-```text
-Understand the Problem
-        ↓
-Define Quality / Success Criteria
-        ↓
-Collect & Prepare Data
-        ↓
-Build / Integrate the Solution
-        ↓
-Test & Evaluate
-        ↓
-Analyse Failures
-        ↓
-Improve
-        ↓
-Automate
-        ↓
-Document & Maintain
-```
-
-I value:
-
-- Reproducible testing
-- Clear evaluation criteria
-- Root-cause analysis
-- Automation over repetitive work
-- Traceable documentation
-- Data-driven decisions
-- Reliable AI behaviour
-- Privacy-aware AI development
-- Maintainable solutions
+- AI Quality Engineering
+- LLM / MLLM evaluation
+- AI testing and reliability
+- AI-assisted test automation
+- RAG evaluation
+- Multimodal AI
+- LLM fine-tuning and PEFT
+- AI-powered software testing
 
 ---
 
-# 🌱 Currently Exploring
+# 🎯 Target Roles
 
-```text
-AI Quality Engineering
-        +
-LLM / MLLM Evaluation
-        +
-Generative AI Testing
-        +
-RAG Evaluation
-        +
-AI Agents & Copilot Workflows
-        +
-Privacy-Preserving AI
-        +
-MLOps / Model Deployment
-        +
-Data Science
-```
+I am particularly interested in opportunities such as:
+
+**AI Quality Engineer · AI QA Engineer · QA Automation Engineer · Test Automation Engineer · AI Test Engineer**
+
+I am also open to **Applied AI / AI/ML Engineering** opportunities where my background in QA, automation, and AI can be combined.
 
 ---
 
-# 📌 GitHub Portfolio
+# 📫 Let's Connect
 
-| Area | Projects |
-|---|---|
-| 🧪 **AI Quality / QA** | Master's Thesis · HawkAssist · AI Tutor |
-| 🤖 **Generative AI** | HawkAssist · AI Tutor · Master's Thesis |
-| 🔎 **RAG** | HawkAssist · Master's Thesis |
-| 🔐 **Privacy-Preserving AI** | Master's Thesis |
-| 📝 **NLP** | Skip-Gram |
-| 🧠 **Machine Learning** | AdaBoost · CLARANS |
-| 📊 **Data Analytics** | HR Analytics Dashboard |
-| 🏗️ **Data Engineering** | Hive & Hue Data Integration |
-| 🚗 **Applied AI / Robotics** | Autonomous Car |
+- 💼 LinkedIn: [linkedin.com/in/vineeth-racharla](https://linkedin.com/in/vineeth-racharla/)
+- 📧 Email: vineethracharla09@gmail.com
+- 🐙 GitHub: [github.com/Vinrach](https://github.com/Vinrach)
 
 ---
 
-# 🤝 Let's Connect
+### 💡 My Engineering Philosophy
 
-I'm open to opportunities and discussions around:
+> **Build it. Test it. Measure it. Improve it.**
 
-**AI Quality Engineering · AI QA · Test Automation · Generative AI · Data Science · Machine Learning · NLP · Enterprise AI · Software Quality**
-
-<p align="center">
-
-<a href="https://github.com/Vinrach">
-  <img src="https://img.shields.io/badge/GitHub-Vinrach-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://linkedin.com/in/vineeth-racharla/">
-  <img src="https://img.shields.io/badge/LinkedIn-Vineeth%20Racharla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <b>Software Quality × Artificial Intelligence × Data</b>
-  <br>
-  <i>Building reliable software and intelligent systems.</i>
-</p>
+I believe reliable AI systems require more than good models — they require systematic **testing, evaluation, automation, traceability, and continuous improvement**.
