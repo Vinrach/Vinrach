@@ -4,7 +4,7 @@
 
 Master's graduate in **AI & Data Analytics** from Hochschule Neu-Ulm (HNU), with professional experience in **Software Quality Assurance, Test Automation, API Testing, and AI-powered testing**.
 
-I focus on building and evaluating reliable software and AI systems by combining **QA engineering, automation, and applied AI/ML**.
+I focus on building and evaluating reliable software and AI systems by combining **QA engineering, automation, and applied AI/ML**.  
 
 ---
 
